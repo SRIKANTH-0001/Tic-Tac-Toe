@@ -37,3 +37,4 @@ This project is part of my continuous learning journey. Thanks for checking it o
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srikanth--k/) for more updates and projects.
 
 ## Sample Image
+![Tic Tac Toe - Google Chrome 11_17_2024 2_14_21 PM](https://github.com/user-attachments/assets/5e1daa25-b98b-4158-9dc4-a2aa63a85beb)
